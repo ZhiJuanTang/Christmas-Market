@@ -1,3 +1,6 @@
+To see the website : https://christmasmarket.netlify.app/
+
+
 Hello :)
 
 This is a repository containing front-end part of a  project "Christmas-Market"  in my Full-Stack WEB & APP Dev Boot Camp.
@@ -5,4 +8,3 @@ This is a repository containing front-end part of a  project "Christmas-Market" 
 The Backend part of my final project "Marry in the Dream Castle" you can find it here: https://github.com/ZhiJuanTang/Christmas-market-backend.git
 
 
-To see the website : https://christmasmarket.netlify.app/
