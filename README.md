@@ -5,4 +5,4 @@ This is a repository containing front-end part of a  project "Christmas-Market" 
 The Backend part of my final project "Marry in the Dream Castle" you can find it here: https://github.com/ZhiJuanTang/Christmas-market-backend.git
 
 
-To see the website : https://serene-euclid-8935db.netlify.app/
+To see the website : https://christmasmarket.netlify.app/
